@@ -1,0 +1,87 @@
+Post
+Post
+Share
+Save
+Print
+If you want to get hired in a competitive job market, submitting the same resume to multiple openings is usually a bad idea. For hiring managers and recruiters, a resume is your very first impression — and that impression alone can make or break your progress. To stand out from the crowd, you need to revise your resume to match each role you apply to.
+
+The good news is that you have a fantastic resource to guide you: The job description (JD) listed on the career or company website. The JD lays out the essential responsibilities, activities, qualifications, and skills the hiring manager values most. Think of it like the book in an open-book test. The information you need to succeed is right in front of you.
+
+Ready to get started?
+
+What to Pull from the Job Description
+Before you begin editing your application, make sure you understand how the different roles of a resume and cover letter: Your resume should provide the hiring manager with data and evidence demonstrating you’re qualified to do the job well. Your cover letter, on the other hand, should establish why you want the job.
+
+As you recraft your resume for each new role, focus on aligning your hard and soft skills, previous work responsibilities, and daily tasks and projects to those listed in the JD. Save more personal details — like your values, long-term goals, and work ethic — for your cover letter.
+
+You may be thinking this sounds easy enough. A JD is pretty straightforward, right? Well, not exactly. JDs traditionally have a number of details to decode.
+
+Here are the JD areas you want to focus on and later use to customize your resume:
+
+“What We’re Looking For”/ “What You Will Be Doing”
+Most JDs start with a description of the role using generic terms and jargon. Depending on the job, you might see various phrases like:
+
+Coordinate department need and activities, including scheduling meetings and organizing files.
+Analyze competitive markets and present data insights and suggestions for improvement to the product team.
+Write, edit, and proofread newsletter copy.
+Clues about work responsibilities show up in verbs: coordinating, scheduling, organizing, analyzing, presenting, writing, editing, and proofreading. Clues about areas of expertise can be found in the nouns: consumer needs, competitive markets, insights, and newsletter. On your resume, you’ll be focusing more on core responsibilities of the role and less on the desired behavioral traits like creativity, teamwork, and attention to detail. You can share those traits more thoroughly in your cover letter or during the job interview.
+
+Skills/Competencies
+Companies typically list desired skills on JDs in sequential order or prioritize them with labels like “required,” “desired,” and “preferred.” Use these clues to decide which skills to highlight on your resume. Phrases like “required” and “must-have” are typically non-negotiable, whereas labels like “desired” and “preferred” are less important to the company.
+
+Even if you have no prior experience in the job market or industry, you may have conducted similar work in the past during an internship or at college. Perhaps you measured user engagement on a social media channel, conducted surveys to gain insights on a product or service, scheduled and organized an annual company event, or were entrusted with editorial responsibilities for your college newsletter. Borrow the verbs and nouns listed in the job description to showcase how your past work (not just your jobs) matches the expectations and skills listed in the JD.
+
+Qualifications/Experience
+This section of a JD typically indicates how many years of experience the company requires from qualified candidates. Make sure that your resume matches those requirements or comes close to them.
+
+For example, if the JD qualifications include three to four years in a marketing role, double-check that the relevant work dates on your resume add up to at least two years. You don’t need to meet the exact time-of-work requirements to apply for the job. As long as the expertise and the skills you present match the JD, you can give yourself some wiggle room — typically one year or so less than the low end of the range.
+
+If you’re first entering the workforce and the JD requires one to two years of work experience, apply anyway. Qualifying experience can take many forms, including internships, school projects, volunteer activities, and freelance work.
+
+Crafting a Resume that Matches the JD
+Once you’ve identified the job responsibilities and required skills you want to borrow from the JD, there are two places on your resume where you should put them.
+
+1) Your “professional summary” (if you have one)
+A professional summary is an (optional) statement at the top of your resume that briefly states your career goals and qualifications. If you include this section on your resume, you can use it to match your experience with the requirements for job you want.
+
+For example, let’s say you’re applying to be a social media associate. In the JD, the company indicates they are looking for someone who can do the following tasks: Analyze user behaviors and insights; develop social media strategy across multiple platforms; write social copy for paid and organic digital marketing campaigns.
+
+Use your statement to highlight some of the key responsibilities (verbs) and expertise (nouns) listed in the JD. Here’s an example of what that might look like: Analytically-driven social media associate with one year of experience. Skilled in managing and developing social media strategies, writing social copy for multiple platforms, and executing paid and organic digital campaigns.
+
+2) The bullets beneath your job titles
+There are several ways you can organize the “work experience” section of your resume. If you’re early in your career, you might prefer to highlight your most relevant skills instead of your most recent job titles. If you’ve held one or more relevant positions, you might go the more traditional route and list out your work history in sequential order. While you’ll have limited flexibility when describing your titles or companies, you can customize the details and success metrics below them to match the items in the JD. Consider the following examples:
+
+If the JD mentions conducting surveys, you might say:
+
+Increased survey engagement rate by 25%.
+If the JD mentions developing and maintaining production timelines, you might say:
+
+Project-managed five initiatives in 2023, including oversight of production timelines and deadlines.
+If the JD mentions assessing competitor offerings and presenting suggestions, you might say:
+
+Routinely presented competitor analysis reports with responsive strategy recommendations.
+If the JD mentions people management responsibilities, you might say:
+
+Managed the four-member internal comms team.
+Remember: You’re building a case for being hired, not building a Wikipedia page. You don’t need to include every job you’ve ever had, but you do need to highlight experiences that match best with the JD. If your job history is limited, try to include at least one position or internship that shows you know what it’s like to work in a professional environment. If you have several jobs in your history, only include the roles that are relevant to this opportunity. This advice applies to LinkedIn as well, as recruiters will often Google relevant candidates and take a look at their online profiles.
+
+What Not to Do on Your Resume
+When crafting your resume to match the JD, there are a couple traps you should avoid. To learn more what not to do, I spoke to hiring and recruitment consultant Mike Peditto.
+
+1) Don’t list skills without context.
+Don’t stick a “Skills” section at the bottom of your resume and fill it with random keywords listed in the JD. The key to standing out is contextualizing your skills and competencies in a way that stands out from the hundreds of other applicants.
+
+“Despite common myths, resume-writing goal is not about gaming an automated applicant tracking system (ATS),” Mike told me. “A resume that conveys exactly how you used the skills will stand out over a resume that merely lists all the skills in one section or a box. The company will be more impressed by the details of your work than by general descriptions of your responsibilities.”
+
+If, for instance, the role requires you to use a specific programming language or editing tool, indicate in the bullets beneath the job title exactly you’ve done with those skills and tools instead of using broad, less-defined term like “web development” and “editorial tools.” If the role requires cold-calling prospects, refer specifically to your cold-calling experience instead of characterizing it more generally with a phrase like “contacted potential clients
+
+2) Don’t over-rely on generative AI tools.
+Many job candidates use AI tools like ChatGPT to craft first draft of their resume. In fact, more recently, several AI apps have been built with the specific purpose of improving resumes. As a resume-building resource, AI tools should not be shunned nor used blindly, Peditto advised. “An AI tools can find keywords in JDs and help construct bullet points matching them, but it may also highlight keywords less critical to the job. It will also not write perfect resume bullet points,” he said. “Whatever AI comes up with, scrutinize and edit it to ensure what’s on your resume is specific and personalized, and sounds like it was written by a human being.”
+
+An AI output is only as good as the prompt input, so make sure your prompts include specific elements from the JD, or ask the AI tool to analyze the JD as part of the prompt. You can indicate your preferred tone and tell it to use “action verbs.”
+
+A solid prompt might look like this: “Personalize and adapt resume for [job role] at [company name]. Here is the job description [paste]. Here is my resume [paste]. Include that I increased survey engagement rates by 25%, project-managed five major initiatives in 2023, including oversight of production timelines and deadlines, routinely presented competitor analysis reports with responsive strategy recommendations, and managed the 12-member internal comms team. Use a professional tone and action verbs to make my hard work and achievements seem impressive. Include the most important keywords from the job description.”
+
+. . .
+At the end of the day, a resume highlighting your strengths but largely ignoring the job requirements could land in the trash bin. The recruiter is looking for matches, not miracles, so carefully identify and leverage JD-to-resume connections. In this very competitive stage, taking the time to do that audit could make the difference between making it to the interview stage or being passed over.
+

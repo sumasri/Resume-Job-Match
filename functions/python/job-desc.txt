@@ -1,0 +1,36 @@
+### WHY JOIN US?
+
+We practice a vibrant & energetic office culture.  
+We provide opportunities for career advancement within the company.  
+Good performance is always rewarded accordingly.  
+
+“It's our people that make Astro Malaysia’s leading entertainment company. We are an inclusive employer, to enable everyone at Astro to be their best. We embrace differences – we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products/services, and our community. We also understand and appreciate that diversity is a driver of creativity and innovation, which will make our business more competitive, compelling, and profitable.”  
+
+### JOB RESPONSIBILITIES:
+
+#### WHAT YOU WILL DO:
+
+- Implement software solutions using modern and open-source technologies in a cloud environment.
+- Ensure on-time and high-quality delivery of solutions.
+- Participate in all phases of the software development life cycle from initial build to production and optimization.
+- Build scalable and high-performance web services with clean, maintainable code.
+- Write effective Application Program Interfaces (APIs) and design UI for multiple projects.
+- Produce software solutions according to business requirements, business processes, and best practices for effective software development.
+- Practice code review, unit testing, and integration testing.
+- Conduct system and performance management, application vulnerability management and control, and software release management.
+
+### REQUIREMENTS:
+
+#### WHO YOU ARE:
+
+- BA/BS/MS degree or equivalent experience; preferably in Computer Science, Computer Engineering/Information Systems or a relevant field.
+- 2-3 years of experience in a full stack/frontend environment.
+- Experience engineering software systems of medium-to-large scope and complexity.
+- Good knowledge and experience in developing and deploying REST APIs.
+- Hands-on experience in Node.js and frameworks is preferable, and knowledge of Agile methodologies is a must.
+- Strong skills in HTML, CSS, and JavaScript are needed.
+- Familiarity with code versioning tools such as Git.
+- Experience in setting up CI/CD pipelines.
+- Understanding of object-oriented design and programming concepts.
+- Passion for quality and writing clean and readable code that scales and performs well.
+- Good analytical and problem-solving skills. Be self-motivated, aggressive, responsible, and an enthusiastic team player.

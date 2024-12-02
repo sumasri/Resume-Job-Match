@@ -1,0 +1,11 @@
+PyPDF2==3.0.1
+numpy==1.23.5
+scikit-learn==1.2.2
+transformers==4.28.1
+sentence-transformers==2.2.2
+spacy==3.5.2
+torch==2.0.0
+python-dotenv==1.0.0
+
+# After installing the requirements, run:
+# python -m spacy download en_core_web_sm
